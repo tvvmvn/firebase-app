@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Let's test App component! 1`] = `
+Array [
+  <h1>
+    Cities
+  </h1>,
+  <button
+    disabled={true}
+    onClick={[Function]}
+  >
+    USA
+  </button>,
+  <button
+    disabled={false}
+    onClick={[Function]}
+  >
+    Japan
+  </button>,
+  <button
+    disabled={false}
+    onClick={[Function]}
+  >
+    China
+  </button>,
+  <ul />,
+]
+`;
